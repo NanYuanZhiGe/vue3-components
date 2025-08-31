@@ -210,7 +210,6 @@ onUnmounted(() => {
 
 .baby {
     position: absolute;
-    overflow: hidden;
 }
 
 .baby.son {
